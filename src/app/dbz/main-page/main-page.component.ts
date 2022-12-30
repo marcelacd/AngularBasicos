@@ -29,5 +29,4 @@ export class MainPageComponent  {
     this.personajes.push( personaje )
   }
   
-
 }
