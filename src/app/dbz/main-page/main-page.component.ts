@@ -28,5 +28,5 @@ export class MainPageComponent  {
     // debugger;
     this.personajes.push( personaje )
   }
-  
+// Comentarios
 }
